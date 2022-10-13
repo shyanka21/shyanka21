@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**shyanka21/shyanka21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Shyanka. 
 
-Here are some ideas to get you started:
+... and I'm also
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Pursuing my MS in University of Wisconsin
+- 🌱 Learning all about **Open Source**
+- 🔎 Exploring Web development with **Angular**
+- ✨ A believer in dreaming big and working hard.
+
+
+💬 Ping me on [linkedin](https://www.linkedin.com/in/shyanka-basak-47215a185/) about **cahtbots** and **data science**!
+
+
+🎨 Fun fact: I love to paint
