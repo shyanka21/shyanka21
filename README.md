@@ -10,7 +10,7 @@
 - ✨ A believer in dreaming big and working hard.
 
 
-💬 Ping me on [linkedin](https://www.linkedin.com/in/shyanka-basak-47215a185/) about **cahtbots** and **data science**!
+💬 Ping me on [linkedin](https://www.linkedin.com/in/shyanka-basak-47215a185/) about **chatbots** and **data science**!
 
 
 🎨 Fun fact: I love to paint
