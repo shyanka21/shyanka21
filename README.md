@@ -4,7 +4,7 @@
 
 ... and I'm also
 
-- 🏫 Pursuing my Master of Science (MS) in University of Wisconsin
+- 🏫 Pursuing my Master of Science (MS) in University of Wisconsin, Milwaukee
 - 🌱 Learning all about **Open Source**
 - 🔎 Exploring Web development with **Angular**
 - ✨ A believer in dreaming big and working hard.
